@@ -11,7 +11,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <debezium.version>3.0.8.Final</debezium.version>
+        <debezium.version>3.0.7.Final</debezium.version>
         <aws.sdk.version>2.20.17</aws.sdk.version>
         <glue.converter.version>1.1.23</glue.converter.version>
     </properties>
