@@ -1,5 +1,5 @@
 PLUGIN_NAME = debezium-connector-mariadb
-VERSION=3.0.8
+VERSION=3.0.7
 LIBS_DIR = libs
 BUILD_DIR = target
 DIST_DIR = plugin-dist
